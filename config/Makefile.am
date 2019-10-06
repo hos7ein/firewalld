@@ -134,6 +134,7 @@ CONFIG_FILES = \
 	services/cfengine.xml \
 	services/cockpit.xml \
 	services/condor-collector.xml \
+	services/cratedb.xml \
 	services/ctdb.xml \
 	services/dhcpv6-client.xml \
 	services/dhcpv6.xml \
